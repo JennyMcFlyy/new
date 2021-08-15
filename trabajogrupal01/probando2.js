@@ -1,7 +1,6 @@
 console.log("Hola este es el segundo");
-<<<<<<< HEAD
+
 console.log("Holuus"); 
-=======
 
 //agrego un pedazo de codigo aca a ver si vos modificas algo adentro del codigo que pasa
 
@@ -29,4 +28,4 @@ console.log(arrayDeWebs);
 console.log(procesar(arrayDeWebs, agregarHttp));
 console.log(arrayDeWebHttp.length);
 
->>>>>>> a22aa4604e7f9dcfaf9ca6de67c89cb5000a5609
+
